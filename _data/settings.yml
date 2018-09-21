@@ -1,34 +1,50 @@
 audit_header: false
 title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Mike Wall, a top Real Estate Agent in Cincinnati and Dayton, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team/
-  - title: Events
-    url: #
+    url: https://www.expenterprise.com/iframe-public.html
   - title: Free Strategy Call
-    url: /strategy-call/
-  - title: Free Newsletter
-    url: /subscribe/
-
+    url: https://calendly.com/mike-77/exp/09-19-2018
+  - title: Webinars
+    url: http://www.gcimultiplier.com/gotomeeting/register.php
+  - title: About eXp
+    url: http://mikewall.exprealty.careers/
 
 client:
-  name:
+  name: Mike Wall
   title:
   license_number:
   about_markdown: |
+    The Love Ohio Living Team, founded and headquartered in Ohio, is one of the fastest growing real estate teams in the country — ranked by The Board of Realtors as the #1 Real Estate Team at eXp Realty is focused on dominating Cincinnati & Dayton
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    The standard of The Love Ohio Living Team is to provide clients with the highest level of service through our innovative and client-centered team approach to selling homes. When you work with The Love Ohio Living Team gives you piece of mind with guarantees such as our Sold in 77 Program, 24-Month Love it or List it Guarantee, and more!
+  market: Cincinnati and Dayton
+  brand:  Love Ohio Living Team
+  brokerage: Brokered by eXp Realty
+  location1: Cincinnati
+  address: 7185 Liberty Centre Dr. Ste. F<br>West Chester, OH 45069
+  phone: 513-299-8999
+  location2: Dayton
+  address2: 6788 Loop Rd.<br>Centerville, OH 45459
+  phone2: 937-240-0999
+  email: mike@loveohioliving.com
+  url: http://loveohioliving.com
+
+sidebar_CTA:
+  - CTA_image_path: /img/cta-images/004.jpg
+    CTA_title: "Join Our Team"
+    CTA_text: "Sell More Homes in Less Time"
+    CTA_link_text: "Apply Now"
+    CTA_url: https://www.expenterprise.com/iframe-public.html
+
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: "Free Strategy Call"
+    CTA_text2: "Personalized Advice For You"
+    CTA_link_text2: "Get in Touch"
+    CTA_url2: https://calendly.com/mike-77/exp/09-19-2018
 
 lender:
   show_section: false
@@ -44,10 +60,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/LoveOhioLiving/
+  linkedin_url: https://www.linkedin.com/in/daytonohiorealestate/
   gplus_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/mikewallrealtor
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -57,25 +73,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Cincinnati and Dayton Real Estate Podcast with Mike Wall'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Cincinnati and Dayton Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Love Ohio Living Team - your professional Cincinnati and Dayton Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Cincinnati and Dayton, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Mike Wall'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Cincinnati and Dayton Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#b42026'
+  theme_color: '#323232'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
