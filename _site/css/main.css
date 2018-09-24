@@ -1341,12 +1341,10 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #323232;
   border-radius: 0;
   min-height: 52px;
-  background: #ffffff;
-  width: 100%;
-  overflow: hidden; }
+  background: #1C2841;
+  width: 100%; }
 
 .navbar-andross .navbar-brand {
   color: #b42026;
@@ -1364,7 +1362,7 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left > li > a {
   background: transparent;
-  color: black;
+  color: #fff;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1414,6 +1412,47 @@ html[xmlns] .flexslider .slides {
   max-width: 300px;
   margin: 5px;
   padding: 10px; }
+
+.dropbtn {
+  background-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  border: none; }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-top: 1rem; }
+  .dropdown a {
+    padding: 10px 15px; }
+    .dropdown a:hover {
+      color: #b42026;
+      background: #fff !important; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #eeeeee;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1; }
+  .dropdown-content a:hover {
+    color: #b42026; }
+
+.dropdown-content a {
+  color: #000;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block; }
+
+.dropdown-content a:hover {
+  background-color: #ddd; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn {
+  background-color: #b42026; }
 
 @media (max-width: 760px) {
   .nav-logo {
@@ -1514,8 +1553,9 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  padding-top: 10rem;
+  -webkit-filter: drop-shadow(0px 2px 7px #1C2841);
+  filter: drop-shadow(0px 2px 7px #1C2841); }
 
 .site-title {
   color: #b42026;
@@ -1974,7 +2014,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px #1C2841; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1989,7 +2029,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #1C2841;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2000,7 +2040,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #1C2841;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2725,8 +2765,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #1C2841);
+  filter: drop-shadow(0px 2px 7px #1C2841); }
 
 .page-hero-img {
   background-position: center;

@@ -1,16 +1,14 @@
 audit_header: false
 title:
 description: Mike Wall, a top Real Estate Agent in Cincinnati and Dayton, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: true
+show_custom_links: false
 custom_links:
   - title: Join Our Team
-    url: https://www.expenterprise.com/iframe-public.html
+    url: http://mikewall.exprealty.careers/
   - title: Free Strategy Call
     url: https://calendly.com/mike-77/exp/09-19-2018
   - title: Webinars
-    url: http://www.gcimultiplier.com/gotomeeting/register.php
-  - title: About eXp
-    url: http://mikewall.exprealty.careers/
+    url: http://www.explodingwealth.com/
 
 client:
   name: Mike Wall
@@ -37,7 +35,7 @@ sidebar_CTA:
     CTA_title: "Join Our Team"
     CTA_text: "Sell More Homes in Less Time"
     CTA_link_text: "Apply Now"
-    CTA_url: https://www.expenterprise.com/iframe-public.html
+    CTA_url: http://mikewall.exprealty.careers/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
@@ -83,7 +81,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /img/eXp-logo.png
   logo_width_number: 40
   hero_text: Cincinnati and Dayton Real Estate Video Blog
   hero_background_hex: '#999'
@@ -103,7 +101,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#1C2841'
 
 buttons:
   button_radius_number: 0
