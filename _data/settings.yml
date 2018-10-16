@@ -44,6 +44,13 @@ second_sidebar_CTA:
     CTA_link_text2: "Get in Touch"
     CTA_url2: https://calendly.com/mike-77/exp/09-19-2018
 
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: "Live Real Estate Coaching"
+    CTA_text3: "You pick the topic and we'll dive deep for 45 minutes!"
+    CTA_link_text3: "Free Coaching Session"
+    CTA_url3: http://www.liverealestatecoaching.com/
+
 lender:
   show_section: false
   header_text: Preferred Lender
