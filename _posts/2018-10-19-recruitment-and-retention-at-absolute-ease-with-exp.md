@@ -9,7 +9,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/podcast2.png
 youtube_code:
 ---
 
@@ -125,7 +125,7 @@ And I'm an Inman. I watch Inman News and I read the articles that come by and I 
 
 Let me put it that way. So I was brushing these guys off. I even have good relations with them, and I did not believe them. I didn't think they understood I had my brokerage so why would I? Why would I ever do that?
 
-Well, the truth of the matter is that if you have some problems in your business that you solve I think you have to think of what are all the ways you can solve them. While there are an infinite number of ways to solve problems right?&nbsp; So if you're not if you're looking through a certain lens at how to fix these problems you might be actually. That's what I was doing.
+Well, the truth of the matter is that if you have some problems in your business that you solve I think you have to think of what are all the ways you can solve them. While there are an infinite number of ways to solve problems right?  So if you're not if you're looking through a certain lens at how to fix these problems you might be actually. That's what I was doing.
 
 I was figuring how I could fix these on my own. That was the lens I saw it through. The second I started looking through a different Lens saying “Okay let me look at this model and see.” I looked at it so I can get them off my back.
 
