@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/podcast2.png
 youtube_code:
 ---
 
-This Podcast highlights the problems faced by independent brokerages and team leaders across the States. The challenge of recruitment and retention is still prevailing in many business models. Al Stasek, an independent broker who switched over to EXP explains how the EXP model helped him to overcome these problems and how EXP is growing organically.
+This Podcast highlights the problems faced by independent brokerages and team leaders across the States. The challenge of recruitment and retention is still prevailing in many business models. Al Stasek, Cleveland Rock star agent and team leader who switched over to EXP explains how the EXP model helped him to overcome these problems and how EXP is growing organically.
 
 Click [here](http://agentrevolution.libsyn.com/arp-001-al-stasek){: target="_blank"} to listen to the podcast. Read the complete transcript below.
 
