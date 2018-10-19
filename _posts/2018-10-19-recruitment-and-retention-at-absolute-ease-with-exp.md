@@ -21,11 +21,9 @@ This Podcast highlights the problems faced by independent brokerages and team le
 
 Click [here](http://agentrevolution.libsyn.com/arp-001-al-stasek){: target="_blank"} to listen to the podcast. Read the complete transcript below.
 
-![](/uploads/webp-net-resizeimage.png)
+Mike: This is the Agent revolution podcast. The next evolution of the real estate industry.
 
 &nbsp;
-
-Mike: This is the Agent revolution podcast. The next evolution of the real estate industry.
 
 Let's get started.
 
