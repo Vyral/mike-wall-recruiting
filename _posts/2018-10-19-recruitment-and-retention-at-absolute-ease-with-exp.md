@@ -23,11 +23,9 @@ Click [here](http://agentrevolution.libsyn.com/arp-001-al-stasek){: target="_bla
 
 ![](/uploads/webp-net-resizeimage-3.png)
 
-Mike: This is the Agent revolution podcast. The next evolution of the real estate industry.
+Mike: This is the Agent revolution podcast. The next evolution of the real estate industry. Let's get started.
 
 &nbsp;
-
-Let's get started.
 
 What's up. Welcome to another dose of the agent revolution podcast where each week we dive deep with mega agents around the globe who transition their business to EXP and absolutely crushing it. I'm your host EXP mega agent Mike Wall.
 
