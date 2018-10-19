@@ -19,6 +19,8 @@ youtube_code:
 
 This Podcast highlights the problems faced by independent brokerages and team leaders across the States. The challenge of recruitment and retention is still prevailing in many business models. Al Stasek, an independent broker who switched over to EXP explains how the EXP model helped him to overcome these problems and how EXP is growing organically.
 
+Click [here](http://agentrevolution.libsyn.com/arp-001-al-stasek){: target="_blank"} to listen to the podcast. Read the complete transcript below.
+
 ![](/uploads/test.png)
 
 Mike: This is the Agent revolution podcast. The next evolution of the real estate industry.
@@ -101,7 +103,7 @@ She may think “You know what I think Stesek group is where I want to grow my b
 
 There's no coaching. They don’t have to sign a coaching agreement. Not indefinite. I don't have enough time for everybody. However, the people I bring onboard, I love helping them grow their business because we are aligned to the opportunity.
 
-Mike: Yeah, that's just amazing, the mindset that you have because you know we work the same way. I mean we just sat down with somebody this morning as well and talked about the opportunity in our team and then also at EXP and then kind of compare and contrast.
+Mike: Yeah, that's just amazing, the mindset that you have because you know we work the same way. I mean we just sat down with somebody this morning as well and talked about the opportunity in [our team](http://loveohioliving.com){: target="_blank"} and then also at EXP and then kind of compare and contrast.
 
 Like I said, now we have a system now that we're building to start people out on our team and graduate them to be an independent EXP agent if they want to do that. And what's great is we're training them to do real estate the right way just like you are and then you know there's an opportunity for revenue sharing not only for us but for them because we're teaching them. Then to go out and teach others how to recruit and train.
 
@@ -193,4 +195,4 @@ Al: You’re welcome Mike. Thanks for having me on.
 
 Mike: All right. That was my conversation with Cleveland icon real estate agent Al Stasek.
 
-I just got some serious knowledge. I always love talking. If you know someone who you think might enjoy the podcast please share it with them. If you like the podcast please subscribe. If you're curious about EXP and what it can do for your life and business, watch my short video to get more details and see if EXP is right for you and your business. If you have questions for me you can schedule 30 minutes with me and meet Mike Wall. That's it for this episode of Agent revolution. I will see you next time.
+I just got some serious knowledge. I always love talking. If you know someone who you think might enjoy the podcast please share it with them. If you like the podcast please subscribe. If you're curious about EXP and what it can do for your life and business, watch my short video to get more details and see if EXP is right for you and your business. If you have questions for me you can schedule 30 minutes with me and [meet Mike Wall](http://loveohioliving.com){: target="_blank"}. That's it for this episode of Agent revolution. I will see you next time.
