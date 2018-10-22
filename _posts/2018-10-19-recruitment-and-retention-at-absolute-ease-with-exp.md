@@ -9,7 +9,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/al-stasek-photo-1.jpg
+youtube_alternate_image: /uploads/al-stasek-174237.jpg
 youtube_code:
 ---
 
