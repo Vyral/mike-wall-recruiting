@@ -20,7 +20,7 @@ youtube_code: mH5pjZ63Dm4
 
 {% include youtube.html %}
 
-<p style=”text-align: center;”><em>I created a spreadsheet based on an economic model I acquired at a former brokerage to help my team members hit their yearly income goals, and I want to show you how it works.</em></p>
+<p style= ”text-align: center;”><em>I created a spreadsheet based on an economic model I acquired at a former brokerage to help my team members hit their yearly income goals, and I want to show you how it works.</em></p>
 
 In real estate, if you wait until December or January to start planning for the next year, you’ll be at least 30 to 45 days behind the eight ball.
 
