@@ -24,7 +24,7 @@ In real estate, if you wait until December or January to start planning for the 
 
 As you know, when we put a home under contract, the typical turnaround time is 30 to 45 days. This is why I have all my team members making their business plans now in October—so we all have a roadmap for 2019.
 
-In making this roadmap, I have them submit their income goal for the year, and they work backwards from that number. They need to know the number of buyers and sellers they’ll work with, the number of appointments they’ll be on, and the listings they’re taking in order to hit that goal. To calculate the exact numbers, I created a spreadsheet based on an economic model I acquired at a former brokerage, and in the video above I’ll show you how it works.
+In making this roadmap, I have them submit their income goal for the year, and they work backward from that number. They need to know the number of buyers and sellers they’ll work with, the number of appointments they’ll be on, and the listings they’re taking in order to hit that goal. To calculate the exact numbers, I created a spreadsheet based on an economic model I acquired at a former brokerage, and in the video above I’ll show you how it works.
 
 {% include pullquote.html %}
 
