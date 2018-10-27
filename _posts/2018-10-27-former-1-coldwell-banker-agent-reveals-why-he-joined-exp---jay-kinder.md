@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Former #1 Coldwell Banker Agent Reveals Why He Joined EXP - Jay Kinder'
-date: 2018-10-27 18:42:37
+date: 2018-10-27 18:42:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/16-jay-picture-copy.jpeg
+youtube_alternate_image: /uploads/jay-kinder.jpg
 youtube_code:
 ---
 
