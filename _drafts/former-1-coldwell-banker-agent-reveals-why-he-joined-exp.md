@@ -3,18 +3,13 @@ layout: post
 title: 'Former #1 Coldwell Banker Agent Reveals Why He Joined EXP - Jay Kinder'
 date:
 tags:
-  - EXP
-  - EXP Realty
-  - move to EXP
-  - join EXP
-  - real estate
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/16-jay-picture-copy.jpeg
 youtube_code:
 ---
 
@@ -22,7 +17,7 @@ This Podcast highlights the problems faced by brokerages and team leaders across
 
 Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/arp-002-jay-kinder){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
-&nbsp;
+![](/uploads/webp-net-resizeimage-4.png)
 
 This is the agent revolution podcast the next evolution of the real estate industry.
 
