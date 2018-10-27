@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#1 Agent in San Diego, California Discusses Why He Moved to EXP : Kyle Whissel'
+title: '#1 Agent in San Diego Discusses Why He Moved to EXP : Kyle Whissel'
 date: 2018-10-27 19:25:00
 tags:
 excerpt:
