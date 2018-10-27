@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Former #1 Coldwell Banker Agent Reveals Why He Joined EXP - Jay Kinder'
-date:
+date: 2018-10-27 18:42:37
 tags:
 excerpt:
 enclosure:
@@ -15,7 +15,7 @@ youtube_code:
 
 This Podcast highlights the problems faced by brokerages and team leaders across the States. The challenge of recruitment, revenue sharing, and retention is quite common. Jay Kinder, Former #1 Coldwell Banker Agent and Real Estate Industry Icon Reveals Why He Joined eXp Realty and how has the transition worked out for him and his team. He believes that this is going to be a ride that is going to open up new doors and opportunities and experiences not just across the country but across the world with more than 1 million agents.
 
-Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/arp-002-jay-kinder){: target="_blank"}to listen to the podcast. Read the complete transcript below.
+Click [here ](http://agentrevolution.libsyn.com/arp-002-jay-kinder){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-4.png)
 
@@ -35,7 +35,7 @@ Just a quick story on Mr. Kinder. Jay, I don't know if you remember this man but
 
 **Jay:** Absolutely man. And now about that letter I really appreciate that. When you do what we do and try to help agents grow their business you never know who you're going to talk to or whose path you're going to cross. But it means a lot to me that when somebody said or shared something and that really made impact. And thank you so much for that. It was something I have to say, I found it the other day and it stays close to my desk because it was really a meaningful letter to me so I really appreciate you sharing that with me.
 
-**Mike:&nbsp;**That's awesome man. Well let's get started. I just created this agent revolution podcast because I think that every agent has their own unique story as it relates to their move to EXP. And I want to talk a little bit about the psychology that each agent goes through. Today I was thinking that’s what we would do. I mean if someone had been hiding under a rock for the last ten years and they don't know who you are. How long have you been in real estate now Jay?
+**Mike:** That's awesome man. Well let's get started. I just created this agent revolution podcast because I think that every agent has their own unique story as it relates to their move to EXP. And I want to talk a little bit about the psychology that each agent goes through. Today I was thinking that’s what we would do. I mean if someone had been hiding under a rock for the last ten years and they don't know who you are. How long have you been in real estate now Jay?
 
 **Jay:** Two decades. I was licensed in 1997 when I was 19 years old, that's when I got into a real estate and learned a lot since then. And so, this 20th year actually marks the first year my 20-year-old son is in real estate. So kind of a couple of milestones there.
 
@@ -47,7 +47,7 @@ Just a quick story on Mr. Kinder. Jay, I don't know if you remember this man but
 
 **Jay:** That's a really good question Mike. Probably it won't make sense to everybody. There's going to be obviously a lot of advance people listening to this podcast. I know the circles that we all run in and there's going to be some advance people. It's all I'll answer the question but it took a lot a lot of evolution right to get to this point where we were still trying to evolve the model. And for us we had you know we had both my reason I'm my business partner we had both had successful real estate practices for years and we stepped down. I stepped out I went independent in 2011 and you know Michael left Keller Williams at some point in there. And we both had been successful. We are number two in the Coldwell Banker. Mike was top 50 in the world or whatever for you know for Keller Williams, you get to a point and I think most people that we've coached over the years and we've all got to a point where you're paying somebody whether it's Coldwell or Keller or whoever you're paying them you know we pay them more than 70 thousand dollars.
 
-It becomes a priority to go independent and just because you're paying too much money and that there's not enough value for whatever the brand is that you're at.&nbsp; Our path has been that and we'd coached a lot of people through that as we had some of these mass groups with a lot of the top agents around the country doing from you know an average of about a million and a half GCI on upwards. We were really trying to do something that we could take and scale across the country.
+It becomes a priority to go independent and just because you're paying too much money and that there's not enough value for whatever the brand is that you're at.  Our path has been that and we'd coached a lot of people through that as we had some of these mass groups with a lot of the top agents around the country doing from you know an average of about a million and a half GCI on upwards. We were really trying to do something that we could take and scale across the country.
 
 So in 2014 we started the brokerage and we had dialed in the systems and processes so well we felt like a salary model we could deliver on a salary model so we had salaried agents and what we realized was that the number one in that business model is your compensation drive behavior. So even though we had the systems and processes it was management heavy and it was expensive to try to scale something like that.
 
