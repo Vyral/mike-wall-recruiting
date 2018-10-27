@@ -1,14 +1,8 @@
 ---
 layout: post
-title: >-
-  #1 Agent in San Diego, California Discusses Why He Moved His Muti-Million
-  Dollar Team to EXP : Kyle Whissel
-date: 2018-10-27 19:25:14
+title: '#1 Agent in San Diego, California Discusses Why He Moved to EXP : Kyle Whissel'
+date: 2018-10-27 19:25:00
 tags:
-  - EXP
-  - EXP model
-  - join EXP
-  - real estate
 excerpt:
 enclosure:
 pullquote:
@@ -21,7 +15,7 @@ youtube_code:
 
 This Podcast highlights the problems faced by independent brokerages and team leaders across the States. The challenge of not having a suitable work culture and dealing with problems within the team. Kyle Whissle, #1 agent in San Diego, California who switched over to EXP talks about his personal struggles and his thoughts on the amazing EXP model. Kyle also talks about how he started adoping technology and the associated benefits.
 
-Click&nbsp;[here](http://agentrevolution.libsyn.com/arp-003-whissel){: target="_blank"}&nbsp;to listen to the podcast. Read the complete transcript below.
+Click [here](http://agentrevolution.libsyn.com/arp-003-whissel){: target="_blank"} to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-5.png)
 
@@ -63,7 +57,7 @@ When I started looking around and I saw these agents you know with hundred short
 
 So I transition over to the residential side and started up in like 2008. So it’s about 10 years in the residential area now. I am closing more than a house today which is really awesome!
 
-**Mike:**&nbsp;That's just freaking awesome and I think you know for us so one of the things that I've always really admired about what you guys do is the kind of culture that you've created and I think you know I think when you talk to team leaders about recruiting and retention a culture is a big part of that. And so I can only imagine that you know OK so you transition from commercial into residential and then you know automatically like are you.
+**Mike:** That's just freaking awesome and I think you know for us so one of the things that I've always really admired about what you guys do is the kind of culture that you've created and I think you know I think when you talk to team leaders about recruiting and retention a culture is a big part of that. And so I can only imagine that you know OK so you transition from commercial into residential and then you know automatically like are you.
 
 **Kyle:** So are you on your own at this point or are you already starting and you already kind of started to go down this whole team structure Pat so when I initially branched out on my own I hired an assistant day one.
 
@@ -83,17 +77,17 @@ The first year was a very expensive learning lesson I started to understand the 
 
 It was a huge leap.
 
-**Mike:** That's impressive man!&nbsp; Ok. So what is the catch?
+**Mike:** That's impressive man!  Ok. So what is the catch?
 
 **Kyle:** We've been it's been growing sense dot at that point we we're still doing a lot of Oreo and a lot of short sales stuff.
 
 We had a high unit count but our average price point was bad. I mean we're insanı of Californians 70 miles of coastline here beaches and
 
-Our average price point was like 267.&nbsp; We started to see the show happen to market and got away from all the foreclosures stop and started shifting to traditional and the cool thing is we've been able to keep our transaction count up but we’ve tripled our average price point since then. So you know last year we finished at over 250,000,000 dollars’ volume which has been amazing.
+Our average price point was like 267.  We started to see the show happen to market and got away from all the foreclosures stop and started shifting to traditional and the cool thing is we've been able to keep our transaction count up but we’ve tripled our average price point since then. So you know last year we finished at over 250,000,000 dollars’ volume which has been amazing.
 
 **Mike:** That's sick man! I'm sitting here in the Midwest; we would love an average sale price up to 60. So we're having to make our money through units. The scenarios are totally different and the cost of living is also less. I'm a little jealous that you know your average price point is so much higher than ours. It's a blessing and a curse because you know here you can do a deal a month and make six figures.
 
-So getting agents to push beyond just making six figures is tight.&nbsp;
+So getting agents to push beyond just making six figures is tight. 
 
 **Mike:** Yeah I can only imagine So I'm curious you know that the whole the whole reason behind why I decided to do this podcast is because I wanted to talk about it and it's entitled age revolution.
 
@@ -117,7 +111,7 @@ We realize that we had both been looking at the same model and decided like you'
 
 So we had a really good transition over to where we were able to retain almost everybody I think everybody really saw that vision.
 
-**Mike:**&nbsp;That's awesome man. We were kind of the same way on maybe just a smaller scale because I think when we when we broke from Keller Williams We had 15 agents in one stay. So I can relate. I'm curious though when you decided when you decided as the business owner that you were moving to EXP what was the conversation with your team like?
+**Mike:** That's awesome man. We were kind of the same way on maybe just a smaller scale because I think when we when we broke from Keller Williams We had 15 agents in one stay. So I can relate. I'm curious though when you decided when you decided as the business owner that you were moving to EXP what was the conversation with your team like?
 
 **Kyle:** I made a big change with our trip about a year ago and I learned a really valuable lesson is there is a right way and a wrong way to you know convey a big change like this.
 
@@ -153,7 +147,7 @@ I also looked at the fact that I'm not liable anymore and one of my new favorite
 
 **Mike:** That's awesome man. That is that is awesome. So now where you're at today? When did you guys join?
 
-**Kyle:**&nbsp;March.
+**Kyle:** March.
 
 **Mike:** Same time we did I think we came on in February. So now I guess you could say the dust is settled or at least settling now. Is there anything different from the previous framework?
 
@@ -167,7 +161,7 @@ I think we've got all that stuff nailed down now. We told our team like hey ther
 
 I've made a commitment to myself that I'm never going to go to sleep and when my head hits the pillow if I know I left anything on the table that day I wouldn’t be able to sleep. Day in day out and give 100 percent on everything, it's become an obsession for me like that's all I know how to do like I struggle sometimes because you know I'll have agents on my team set these goals and then they don't even start on them like I'm going to knock hundred doors this week and then you check in and it’s zero. I can't even comprehend that my brain is not wired in that way. I don't even understand. If I said I'm going to knock on doors. I'm probably going to end up knocking 200. That's just all I know because I'm always going to go all out with every single thing that I do.
 
-**Mike:** Yeah that's awesome!&nbsp; You know the perspective you have on life is amazing because it's truly the fire that burns inside you that when you wake up every day you know you're on a mission.
+**Mike:** Yeah that's awesome!  You know the perspective you have on life is amazing because it's truly the fire that burns inside you that when you wake up every day you know you're on a mission.
 
 It's like we start everyday unemployed and that's kind of the way I look at everything. And sometimes for my agents I want it worse than they do. It is very hard for me to comprehend that, so I certainly understand the particular mindset. I'm curious.
 
@@ -191,7 +185,7 @@ Right now if you’re in a brokerage you walk down the hall and see if your brok
 
 The revenue share, I have seen people in this company that make about a million or a million and half just on revenue sharing where they sell a house or not that’s an insane opportunity where most brokerages where you help recruit somebody in your company and they take you out for dinner or something and that’s it. With this you can build generational wealth for yourself and pass it on to your kids. The opportunities what they are providing is just insane is because they are helping you \*\*\*\*\*\*\*\*\*\*\* some real state and giving you intuitional ways to support yourself and your family so if you’re thinking about doing it do it now and don’t wait if you’re looking at this as a nine inning baseball game then we are at the first or second inning. We know that this company is going to break a hundred thousand and 200 thousand agents and if you’re going to be set early then your chances of success is more. And there are another 100 thousand agents who are going to join under a sponsor. Why not that sponsor be you?
 
-&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why be agent 200’000 when you can be agent 12000?
+           Why be agent 200’000 when you can be agent 12000?
 
 And help spread the word about this company, build this massive revenue share for this massive revenue share and passive income that going to support you for the time to come.
 
