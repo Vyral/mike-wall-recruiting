@@ -3,12 +3,17 @@ layout: post
 title: 'Former #1 Coldwell Banker Agent Reveals Why He Joined EXP - Jay Kinder'
 date: 2018-10-27 18:42:00
 tags:
+  - EXP
+  - EXP Realty
+  - move to EXP
+  - join EXP
+  - real estate
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/jay-kinder.jpg
 youtube_code:
 ---
