@@ -49,6 +49,6 @@ For my most recent interview, I connected with agent Brett Bolzenthal about how 
 
 48:18 - How to contact Brett.
 
-48:35 - How to schedule a free live coaching session like what you saw today ([www.liverealestatecoaching.com](www.liverealestatecoaching.com){: target="_blank"}).
+48:35 - How to schedule a free live coaching session like what you saw today ([https://calendly.com/mike-77/live-real-estate-coaching/11-05-2018](https://calendly.com/mike-77/live-real-estate-coaching/11-05-2018){: target="_blank"}).
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
