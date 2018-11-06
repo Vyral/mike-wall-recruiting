@@ -25,7 +25,7 @@ For my most recent interview, I connected with agent Brett Bolzenthal about how 
 
 **Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
-1:06 - A discussion about the evolution of Brett’s real estate career so far, and where he plans to take it.
+1:06 - A discussion about the evolution of Brett’s real estate career so far and where he plans to take it.
 
 4:06 - Brett explains his income goal for 2019.
 
@@ -49,6 +49,6 @@ For my most recent interview, I connected with agent Brett Bolzenthal about how 
 
 48:18 - How to contact Brett.
 
-48:35 - How to schedule a free live coaching session like what you saw today ([https://calendly.com/mike-77/live-real-estate-coaching/11-05-2018](https://calendly.com/mike-77/live-real-estate-coaching/11-05-2018){: target="_blank"}).
+48:35 - How to [schedule a free live coaching session](https://calendly.com/mike-77/live-real-estate-coaching/11-05-2018){: target="_blank"} like what you saw today.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
