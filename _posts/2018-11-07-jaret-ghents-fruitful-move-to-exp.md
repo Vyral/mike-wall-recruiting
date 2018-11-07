@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Jaret Ghent's fruitful move to EXP
-date:
+date: 2018-11-07 21:15:04
 tags:
-  - EXP
-  - EXP model
-  - EXP realty
-  - about EXP
-  - EXP agent
-  - move to EXP
 excerpt:
 enclosure:
 pullquote:
@@ -21,7 +15,7 @@ youtube_code:
 
 This podcast provides a comprehensive insight into Jaret Ghent's fruitful move to EXP realty. Jaret and his wife run one of the top selling real estate teams in Sacramento. It's interesting to know that Jaret came to know about the EXP model way back in 2010 when the executive team approached him. Jaret explains how the EXP model has evolved over the years and why everyone should be aware of it. He even mentions that EXP realty is the Amazon of the real estate industry.
 
-Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/jaret-ghentwhy-it-took-this-top-agent-years-to-move-to-exp-realtyarp-007){: target="_blank"}to listen to the podcast. Read the complete transcript below.
+Click [here ](http://agentrevolution.libsyn.com/jaret-ghentwhy-it-took-this-top-agent-years-to-move-to-exp-realtyarp-007){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-6.png)
 
