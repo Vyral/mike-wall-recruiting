@@ -1,17 +1,30 @@
 ---
 layout: post
 title: From Keller Williams To EXP Realty - Bryan Casella
-date:
+date: 2018-11-09 19:30:52
 tags:
+  - EXP
+  - EXP realty
+  - EXP model
+  - join EXP
+  - EXP agent
+  - about EXP
+  - move to EXP
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bcsm.jpg
 youtube_code:
 ---
+
+This podcast highlights Bryan Casella's move from Keller Williams to EXP realty. Bryan explains how the EXP model fascinated him and the fururistic cloud brokrage model of EXP where everybody wins. Bryan also talks about his experience of revealing the news to his brokerage and the smooth transition which has immensely fueled his growth. He also stresses why agents should consider to join EXP and become a part of this success story.
+
+Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/bryan-casella-why-exp-realty-is-a-better-fit-than-keller-williams){: target="_blank"}to listen to the podcast. Read the complete transcript below.
+
+![](/uploads/webp-net-resizeimage-7.png)
 
 Mike This is the agent revolution podcast the next evolution of the real estate industry.
 
@@ -41,7 +54,7 @@ Mike Where were you guys before you came to EXP?
 
 Bryan Keller Williams
 
-Mike We came over from Keller Williams in February too. So I can definitely identify with your story. Tell me a little bit about when you first heard about the EXP. Is this something that you heard about last year or two years ago. Is it something you heard about and went hey this is what we're doing?
+Mike We came over from Keller Williams in February too. So I can definitely identify with your story. Tell me a little bit about when you first heard about EXP. Is this something that you heard about last year or two years ago. Is it something you heard about and went hey this is what we're doing?
 
 Bryan Well originally for about two years, we had created the real estate hustlers mastermind. About a year ago a little bit more A.J. who sponsored me into EXP made the jump from Keller Williams. So, I heard about it a year prior to joining roughly maybe a little bit less. At first you're a little skeptical you're like “What is this?”. A.J. obviously we're on the phone calls every week and he just kept sharing with us how much he was growing and all the tools and things that you get access to and what the structure of the company was and over time I started picking my interest. Then I looked I was like “It just sounds not only like a great company but a phenomenal opportunity to jump into something that's growing and that's new and that's fresh”.
 
