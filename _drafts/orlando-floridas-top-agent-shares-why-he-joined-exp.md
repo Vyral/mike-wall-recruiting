@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orlando Florida's Top Agent Shares Why He Joined eXp
+title: Orlando Florida's Top Agent Shares Why He Moved To EXP - Carlos German
 date:
 tags:
 excerpt:
@@ -12,6 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
