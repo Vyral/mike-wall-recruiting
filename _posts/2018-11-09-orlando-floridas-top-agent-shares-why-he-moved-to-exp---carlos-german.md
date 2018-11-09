@@ -1,21 +1,30 @@
 ---
 layout: post
 title: Orlando Florida's Top Agent Shares Why He Moved To EXP - Carlos German
-date:
+date: 2018-11-09 20:59:20
 tags:
+  - EXP
+  - EXP Realty
+  - EXP model
+  - join EXP
+  - move to EXP
+  - EXP mega agent
+  - EXP transition
+  - EXP together
+  - opportunity at EXP
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bqqe0nww-400x400.jpeg
 youtube_code:
 ---
 
-&nbsp;
+This podcast reveals the amazing journey of Orlando Florida's top agent - Carlos German from a web developer to a successful entrepreneur. Carlos has a simple mantra to be the best at whatever he does. He highlights the immense opportunity in the EXP model and how it is benefitting the entire real estate community. Carlos discusses his fruitful move to EXP and why everyone should consider joining EXP.
 
-&nbsp;
+Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/arp-004-carlos){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-8.png)
 
@@ -23,7 +32,7 @@ youtube_code:
 
 ​Let's get started.
 
-It's go time, I'm back with another episode of The Agent Revolution podcast another week and another great guest. Today I'm chatting with Mr. Carlos German one of the top agents in Orlando Florida. Mr. Disneyworld himself as always I'm your host proudly EXP mega agent and team leader Mike Wall. Carlos is going to let us look behind the curtain of his recent EXP transition. We're going to talk about how he closed the doors on his brokerage to join the EXP and how he got fired from his team. So let's get started.
+It's go time, I'm back with another episode of The Agent Revolution podcast another week and another great guest. Today I'm chatting with Mr. Carlos German one of the top agents in Orlando Florida. Mr. Disneyworld himself as always I'm your host proud EXP mega agent and team leader Mike Wall. Carlos is going to let us look behind the curtain of his recent EXP transition. We're going to talk about how he closed the doors on his brokerage to join EXP and how he got fired from his team. So let's get started.
 
 Hey ​Carlos. Welcome to the show I'm so excited to be here with you brother. Listen we are on this journey to EXP together and it's really exciting for me to have you on the show today. We don't know each other really well.
 
