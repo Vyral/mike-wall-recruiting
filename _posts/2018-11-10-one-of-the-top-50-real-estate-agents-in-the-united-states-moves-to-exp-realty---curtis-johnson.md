@@ -3,15 +3,8 @@ layout: post
 title: >-
   One Of The Top 50 Real Estate Agents In The United States Moves To EXP Realty
   - Curtis Johnson
-date:
+date: 2018-11-10 20:28:43
 tags:
-  - EXP
-  - EXP realty
-  - EXP model
-  - real estate agent
-  - with EXP
-  - about EXP
-  - move to EXP
 excerpt:
 enclosure:
 pullquote:
@@ -24,7 +17,7 @@ youtube_code:
 
 This podcast reveals why Curtis Johnson, one of the top 50 real estate agents in the United States decided to make a move to EXP realty. Curtis talks about his journey and the hurdles on the way, the EXP model, and how he is enjoying than ever before. He forecasts the growth of EXP realty and reveals some staggering numbers.
 
-Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/curtis-johnsonwhy-one-of-the-top-50-real-estate-agents-joined-exp-realtyarp-006){: target="_blank"}to listen to the podcast. Read the complete transcript below.
+Click [here ](http://agentrevolution.libsyn.com/curtis-johnsonwhy-one-of-the-top-50-real-estate-agents-joined-exp-realtyarp-006){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-9.png)
 
