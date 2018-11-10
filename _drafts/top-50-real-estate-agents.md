@@ -15,9 +15,9 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-&nbsp;
+This podcast reveals why Curtis Johnson, one of the top 50 real estate agents in the United States decided to make a move to EXP realty. Curtis talks about his journey and the hurdles on the way, the EXP model, and how he is enjoying than ever before. He forecasts the growth of EXP realty and reveals some staggering numbers.
 
-&nbsp;
+Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/curtis-johnsonwhy-one-of-the-top-50-real-estate-agents-joined-exp-realtyarp-006){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-9.png)
 
