@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Of The Top 50 Real Estate Agents Moves To EXP Realty - Curtis Johnson
+title: One Of The Top 50 Agents Moves To EXP Realty - Curtis Johnson
 date: 2018-11-10 20:28:00
 tags:
 excerpt:
