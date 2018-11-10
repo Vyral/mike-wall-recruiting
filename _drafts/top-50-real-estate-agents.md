@@ -5,13 +5,20 @@ title: >-
   - Curtis Johnson
 date:
 tags:
+  - EXP
+  - EXP realty
+  - EXP model
+  - real estate agent
+  - with EXP
+  - about EXP
+  - move to EXP
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/curtis-johnson.jpg
 youtube_code:
 ---
 
