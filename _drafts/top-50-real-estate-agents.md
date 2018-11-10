@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Top 50 Real Estate Agents
+title: >-
+  One Of The Top 50 Real Estate Agents In The United States Moves To EXP Realty
+  - Curtis Johnson
 date:
 tags:
 excerpt:
@@ -12,6 +14,4 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
 
-{% include pullquote.html %}
