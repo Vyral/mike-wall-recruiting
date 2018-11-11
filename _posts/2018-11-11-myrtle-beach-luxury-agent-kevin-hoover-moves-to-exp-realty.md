@@ -1,18 +1,8 @@
 ---
 layout: post
 title: Myrtle Beach Luxury Agent Kevin Hoover Moves To EXP Realty
-date:
+date: 2018-11-11 06:29:40
 tags:
-  - EXP
-  - EXP realty
-  - EXP model
-  - join EXP
-  - move to EXP
-  - EXP thing
-  - about EXP
-  - real estate
-  - real estate agent
-  - agent revolution podcast
 excerpt:
 enclosure:
 pullquote:
@@ -25,7 +15,7 @@ youtube_code:
 
 Kevin Hoover, a 12-year experienced Myrtle Beach luxury agent talks about his successful shift to EXP Realty, what good does he see with additional passive income generation with EXP and how does he compare the EXP model with the conventional business models.
 
-Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/myrtle-beach-luxury-agent-kevin-hoover-talks-about-why-he-left-his-large-prominent-brokerage-for-exp-realtyarp-008){: target="_blank"}to listen to the podcast. Read the complete transcript below.
+Click [here ](http://agentrevolution.libsyn.com/myrtle-beach-luxury-agent-kevin-hoover-talks-about-why-he-left-his-large-prominent-brokerage-for-exp-realtyarp-008){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-10.png)
 
@@ -139,7 +129,7 @@ But I think that still a lot of agents are looking for something that either say
 
 **Kevin:** So for me this is kind of like that. It's like OK, I can do the things I've been doing already and still make a living. Not worry about it's not all my livelihood, is not tied to revenue, are tied to the stock options, are tied to anything else. I can still just do business as usual. On top of that I'm adding a couple other things that if I utilize them correctly they can really make a difference in my family’s life.
 
-**Mike:** Absolutely, brother!&nbsp; Thank you so much Kevin for letting me steal some minutes out of your day. How can people connect with you if they have questions about you know how you run a business or eXp?
+**Mike:** Absolutely, brother!  Thank you so much Kevin for letting me steal some minutes out of your day. How can people connect with you if they have questions about you know how you run a business or eXp?
 
 **Kevin:** Facebook is good, or e-mailing is good, keving@kevinhoover.com or either one of those would be the best way to get in touch.
 
