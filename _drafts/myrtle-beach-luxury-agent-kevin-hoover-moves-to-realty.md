@@ -13,7 +13,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-Kevin Hoover, a 12-year experienced Myrtle Beach luxury agent talks about his successful shift to EXP Realty, what good does he see with additional passive income generation with EXP and how does he compare eXp with the conventional business model.
+Kevin Hoover, a 12-year experienced Myrtle Beach luxury agent talks about his successful shift to EXP Realty, what good does he see with additional passive income generation with EXP and how does he compare EXP with the conventional business model.
 
 ![](/uploads/webp-net-resizeimage-10.png)
 
