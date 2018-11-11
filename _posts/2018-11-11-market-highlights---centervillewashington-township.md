@@ -3,6 +3,7 @@ layout: post
 title: Market Highlights - Centerville/Washington Township
 date: 2018-11-11 05:19:00
 tags:
+  - Listing Presentation
 excerpt:
 enclosure:
 pullquote:
