@@ -3,17 +3,29 @@ layout: post
 title: Myrtle Beach Luxury Agent Kevin Hoover Moves To EXP Realty
 date:
 tags:
+  - EXP
+  - EXP realty
+  - EXP model
+  - join EXP
+  - move to EXP
+  - EXP thing
+  - about EXP
+  - real estate
+  - real estate agent
+  - agent revolution podcast
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/khre-profileheadshot-1.jpg
 youtube_code:
 ---
 
-Kevin Hoover, a 12-year experienced Myrtle Beach luxury agent talks about his successful shift to EXP Realty, what good does he see with additional passive income generation with EXP and how does he compare EXP with the conventional business model.
+Kevin Hoover, a 12-year experienced Myrtle Beach luxury agent talks about his successful shift to EXP Realty, what good does he see with additional passive income generation with EXP and how does he compare the EXP model with the conventional business models.
+
+Click&nbsp;[here&nbsp;](http://agentrevolution.libsyn.com/myrtle-beach-luxury-agent-kevin-hoover-talks-about-why-he-left-his-large-prominent-brokerage-for-exp-realtyarp-008){: target="_blank"}to listen to the podcast. Read the complete transcript below.
 
 ![](/uploads/webp-net-resizeimage-10.png)
 
