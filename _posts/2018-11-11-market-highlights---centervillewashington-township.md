@@ -4,7 +4,9 @@ title: Market Highlights - Centerville/Washington Township
 date: 2018-11-11 05:19:00
 tags:
   - Listing Presentation
-excerpt:
+excerpt: >-
+  EXP mega agent Mike Wall is back with a quick market update for
+  Centerville/Washington Township
 enclosure:
 pullquote:
 enclosure_type: video/mp4
