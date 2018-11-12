@@ -74,8 +74,8 @@ socials:
   pinterest_url:
   zillow_url:
   trulia_url:
-  yelp_url:
-  podcast_url:
+  yelp_url: 
+  podcast_url: https://itunes.apple.com/us/podcast/agent-revolution-podcast/id1418709121?mt=2
 
 podcast:
   title: 'Cincinnati and Dayton Real Estate Podcast with Mike Wall'
