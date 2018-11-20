@@ -2702,9 +2702,11 @@ form select {
 .newsletter {
   background: #174090; }
 
-#side-logo {
-  width: 90%;
-  margin: 0 auto; }
+.badges {
+  width: 75%;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 5px; }
 
 .client-testimonial {
   margin-top: 10px; }
