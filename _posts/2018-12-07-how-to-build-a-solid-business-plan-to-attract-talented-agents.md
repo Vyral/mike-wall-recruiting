@@ -19,7 +19,7 @@ youtube_code: GB3DaGQxz6U
 
 {% include youtube.html %}
 
-I’m constantly looking for ways to improve on specific areas of my business, and I know my fellow agents at eXp are trying to do the same. We all know successful teams require talented real estate agents, and the really cool thing about this discussion is that there are a lot of correlations between recruiting/attracting agents and building a real estate business. Today, my guess, Barbara Legg and I will discuss some of those correlations to provide some tips on how to improve upon and build a better business.
+I’m constantly looking for ways to improve on specific areas of my business, and I know my fellow agents at eXp are trying to do the same. We all know successful teams require talented real estate agents, and the really cool thing about this discussion is that there are a lot of correlations between recruiting/attracting agents and building a real estate business. Today, my guest Barbara Legg and I will discuss some of those correlations to provide some tips on how to improve upon and build a better business.
 
 **For your convenience, I’ve provided timestamps below so you can navigate the conversation in the video above at your leisure.**
 
