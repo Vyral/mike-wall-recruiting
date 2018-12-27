@@ -19,7 +19,7 @@ youtube_code: HVdqUwVGf84
 
 {% include youtube.html %}
 
-In this video coaching session, I’ll share how to approach consumers in today’s marketplace. The digital age has changed how consumers receive their information, and as a result, has affected how we work in our roles as professional real estate agents. To be successful and to provide your customers the experience they deserve, you need to equip yourself with the best techniques and tools available for serving clients and consumers reliable, pertinent, and important information. Positioning yourself as an expert in the field of real estate will give you the ability to provide your clients a great experience throughout the business relationship.
+In this video coaching session, I’ll share how to approach consumers in today’s marketplace. The digital age has changed how consumers receive their information, and as a result, has affected how we work in our roles as professional real estate agents. To be successful and to provide your customers the experience they deserve, you need to equip yourself with the best techniques and tools available for serving clients and consumers reliable, pertinent, and important information. Positioning yourself as an expert in the field of real estate will give you the ability to provide your clients with a great experience throughout the business relationship.
 
 **For your convenience, we’ve included timestamps of this coaching section. Feel free to navigate to the section(s) you’re most interested in viewing:**
 
