@@ -45,8 +45,8 @@ We’re back again today with another live real estate coaching session. This ti
 
 35:25 - Why connecting on multiple levels as you continue to build your digital resume matters
 
-35:57 - A conclusion to today’s message.&nbsp;
+35:57 - A conclusion to today’s message&nbsp;
 
 36:10 - How to take advantage of live real estate coaching yourself (www.liverealestatecoaching.com)&nbsp;
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&nbsp;<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&nbsp;
