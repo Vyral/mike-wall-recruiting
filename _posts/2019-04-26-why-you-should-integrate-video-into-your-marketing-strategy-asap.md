@@ -21,7 +21,7 @@ youtube_code: 5yJJgit89Dw
 
 Marketing in real estate began with the simple outlet of the telephone. As technology advanced, emails, text messaging, and eventually social media were added into the mix, expanding the reach and efficiency of marketing tactics.&nbsp;
 
-With that surge in technological development, video became the dominant form of marketing in many industries. Today, I’m joined by my media-savvy guest, Nick Krempasky to discuss how to leverage video in your business and social media accounts.
+With that surge in technological development, video became the dominant form of marketing in many industries. Today, I’m joined by my media-savvy guest, Nick Krempasky, to discuss how to leverage video in your business and social media accounts.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
