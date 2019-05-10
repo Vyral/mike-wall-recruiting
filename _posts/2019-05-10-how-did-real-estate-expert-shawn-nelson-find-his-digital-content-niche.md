@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did Real Estate Expert Shawn Nelson Find His Digital Content Niche?
-date: 2019-05-10 19:57:18
+date: 2019-05-10 19:57:00
 tags:
   - Listing Presentation
 excerpt: >-
