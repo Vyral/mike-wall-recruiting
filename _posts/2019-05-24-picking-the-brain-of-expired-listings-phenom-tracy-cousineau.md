@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Picking the Brain of Expired Listings Phenom Tracy Cousineau
-date: 2019-05-24 14:30:03
+date: 2019-05-24 14:30:00
 tags:
   - Lead Generation
 excerpt: >-
